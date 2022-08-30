@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @Shrey-Gajjar-9798
-- 👀 I’m interested blockchain.
+- 👀 Interested in Blockchain technology.
 - 🌱 Always curious to learn new Technology.
 - 📫 You can email me at shreygajjar9798@outlook.com
