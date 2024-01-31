@@ -1,9 +1,9 @@
 <h2> Hi, I'm Shrey Gajjar! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img alt="coding" width="250" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
 <p><em>Full stack Blockchain Developer
 </em></p>
 
-[![Linkedin: Shrey Gajjar](https://img.shields.io/badge/-ShreyGajjar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shrey-gajjar97)](www.linkedin.com/in/shrey-gajjar97)
+[![Linkedin: Shrey Gajjar](https://img.shields.io/badge/-ShreyGajjar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shrey-gajjar97)](https://www.linkedin.com/in/shrey-gajjar97)
 [![GitHub Shrey Gajjar](https://img.shields.io/github/followers/Shrey?label=follow&style=social)](https://github.com/Shrey-Gajjar-9798)
 
 
